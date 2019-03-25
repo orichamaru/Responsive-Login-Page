@@ -17,9 +17,11 @@ Steps to setup this project in your local system
 
 7.Name the table as "users" and create 6 columns in it.
 
-8.Name the columns sequetially as 1.Username     4.Gender
-                                  2.Email        5.Mobile Number
-                                  3.D.O.B        6.Password
+8.Name the columns sequetially as 1.username     4.gender
+
+                                  2.mail         5.contact
+                                  
+                                  3.dob          6.password
 
 9.Modify the "connection.php" as per yours credentials to establish connection between php and MySQL .
 
